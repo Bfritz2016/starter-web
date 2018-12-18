@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brandon Fritz brandon_fritz@mohawkind.com
 
 # THANKS
 
